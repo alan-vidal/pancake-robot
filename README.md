@@ -18,20 +18,18 @@
 |BRV8833 | 1 |
 |MPU6050 | 1 |
 
+> [!TIP]
+> Pronto subiremos los enlaces a los productos.
 
 ## Estructura del Proyecto
-```
+
+```Bash
 $PANCAKE-ROBOT
-│   # Archivos de codigo (MicroPython)
-├── code
-│   # Archivos de modelacion 3D
-├── fusion-360
-│   # Archivos de Corte Laser
-├── dxf-file
-│   # Archivos de Impresion 3D
-└── stl-file
-│   # Imagenes
-└── images
+├── code # Archivos de codigo (MicroPython)
+├── fusion-360 # Archivos de modelacion 3D
+├── dxf-file # Archivos de Corte Laser
+└── stl-file # Archivos de Impresion 3D 
+└── images # Imagenes
 ```
 
 ## Licencia
