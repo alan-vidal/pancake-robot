@@ -3,7 +3,7 @@
 
 **Pancake Robot** es una plataforma robótica de movimiento de dos ruedas que utiliza como base una [MicroPython Pyboard v1.1](https://micropython.org), el propósito es desarrollar un robot modular, que permita la fácil integración de partes y piezas según el propósito de cada equipo de desarrollo.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > *El proyecto nacio como un ejercicio académico para mostrar un proceso de pototipado. El proyecto se encuentra en desarrollo, esta abierto a colaboración.*
 
 ## Stack
