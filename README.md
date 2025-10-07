@@ -7,6 +7,7 @@
 > *El proyecto nacio como un ejercicio académico para mostrar un proceso de pototipado. El proyecto se encuentra en desarrollo, esta abierto a colaboración.*
 
 ## Stack
+- [Python](https://www.python.org)
 - [Micropython](https://micropython.org)
 - [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
 
@@ -28,7 +29,7 @@ $PANCAKE-ROBOT
 ├── code # Archivos de codigo (MicroPython)
 ├── fusion-360 # Archivos de modelacion 3D
 ├── dxf-file # Archivos de Corte Laser
-└── stl-file # Archivos de Impresion 3D 
+└── stl-file # Archivos de Impresion 3D
 └── images # Imagenes
 ```
 
