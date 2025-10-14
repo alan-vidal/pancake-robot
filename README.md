@@ -76,7 +76,8 @@ A continuación se presentan los diferentes prototipos desarrollados.
 
 | N Prototipo | Fecha |Propósito/Objetivo | Prototipo Evidencia|
 | :---: | :---: |:--- | :--- |
-| 1 | Buu | Buu 1| Buu2 |
+| 1 | 1-1-2024 | Componentes a utilizar en el prototipo| ![pr-it1-c0](images/record/it1-compotentes-0.jpg "pancake-robot")|
+
 
 ## Licencia
 [MIT License](LICENSE)
