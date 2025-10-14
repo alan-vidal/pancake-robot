@@ -74,10 +74,7 @@ Plataforma robotica, que integre diferentes componentes electronicos, como placa
 ### 10. Proceso de Prototipado
 A continuación se presentan los diferentes prototipos desarrollados.
 
-| N Prototipo | Fecha |Propósito/Objetivo | Prototipo Evidencia|
-| :---: | :---: |:--- | :--- |
-| 1 | 1-1-2024 | Componentes a utilizar en el prototipo| ![pr-it1-c0](images/record/it1-compotentes-0.jpg "pr-it1-c0")|
-
+Revisa el siguiente documento :point_right: [Proceso de Prototipado](PROTOTIPOS.md)
 
 ## Licencia
 [MIT License](LICENSE)
