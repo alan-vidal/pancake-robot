@@ -32,7 +32,7 @@ $PANCAKE-ROBOT
 └── images # Imagenes
 ```
 ## Bases del Proyecto
-<h2 style="color:#FFA500;">Bases del Proyecto</h2>
+<h2 style="color:orange;">Bases del Proyecto</h2>
 Los siguientes contenidos, obedecen a las diferentes temáticas vistas en clases, es un proyecto paralelo que ayuda a visualizar cada paso.
 
 ### 1. Contexto
